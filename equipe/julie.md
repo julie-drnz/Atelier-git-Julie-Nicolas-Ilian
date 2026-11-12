@@ -1,0 +1,3 @@
+# Julie Di Renzo
+- Pseudo Git Hub : @julie-drnz
+- Ce que je connais déjà de git : status, add, pull, push, commit, remote, --version etc.....
