@@ -19,3 +19,17 @@ h2{
     font-size: 1.4rem;
   }
 }
+
+.banniere-pub {
+  background-color: #ffff00;
+  color: #ff00ff;
+  border: 5px dashed red;
+  font-family: "Comic Sans MS", cursive;
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 1rem;
+  margin: 1rem 0;
+  text-shadow: 2px 2px 0 #00ff00;
+}
