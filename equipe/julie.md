@@ -6,3 +6,7 @@
 1. Le commit se trouve dans la branche (local) master 
 2. Après le push, il se retrouve également dans le dépôt GitHub
 3. Si le Codespace est fermé sans push, le commit est perdu car le dépôt local est supprimé avec le Codespace.
+
+## STASH
+
+git stash sert à mettre de côté le travail en train de se faire pour ne pas avoir à le commit et réaliser une autre tâche + urgente 
