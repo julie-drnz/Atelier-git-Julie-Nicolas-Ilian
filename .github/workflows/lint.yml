@@ -16,7 +16,7 @@ jobs:
       - name: Vérifier que les pages existent
         run:
           test -f index.html
-          test -f contact.html
+          test -f Contacts.html
           test -f cours.html
 
       - name: Vérifier le HTML
